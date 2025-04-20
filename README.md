@@ -1,7 +1,7 @@
 # Мои контакты @Sifonsoul(tg)
 
 # Академия ИИ для школьников
-1. Все потоки 
+
  - введение в python:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cYKk4g0RhYbNTTGyQEB-YjAMy7bAzqWf?usp=sharing)
 
@@ -16,5 +16,9 @@
 
  - задача классификации:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xWTVWNGOmpIv2-qvUJrvzpUIHiRrh6QH?usp=sharing)
+
+- задача кошки против собак
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o7DjuAEMOqfF5BMRG9FuXh8IvJ7zfetG?usp=sharing)
+
 
 
