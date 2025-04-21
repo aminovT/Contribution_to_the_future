@@ -17,6 +17,9 @@
  - задача классификации:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xWTVWNGOmpIv2-qvUJrvzpUIHiRrh6QH?usp=sharing)
 
+-введение в keras
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d4WbTWu68apPEVJNfSaxd8bX0VWC6sTa?usp=sharing)
+
 - задача кошки против собак
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o7DjuAEMOqfF5BMRG9FuXh8IvJ7zfetG?usp=sharing)
 
